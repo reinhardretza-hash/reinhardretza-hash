@@ -1,16 +1,24 @@
-## Hi there 👋
+# Reinhard Wesali Retza
 
-<!--
-**reinhardretza-hash/reinhardretza-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Softwareentwickler | Backend & Full-Stack**
 
-Here are some ideas to get you started:
+Ich bin Quereinsteiger in der Softwareentwicklung und habe mir meine Kenntnisse seit 2025 selbst erarbeitet. In eigenen Projekten beschäftige ich mich mit der Entwicklung von Webanwendungen, Schnittstellen und Datenbanken – von der Umsetzung bis zu Tests und Betrieb.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien und Schwerpunkte
+
+- **Sprachen:** TypeScript, JavaScript und Python
+- **Frontend und Backend:** React, Next.js, Node.js und FastAPI
+- **Daten und Schnittstellen:** PostgreSQL, SQLite, REST und WebSockets
+- **Betrieb:** Docker, Docker Compose, Nginx und Linux
+- **Qualität und Sicherheit:** automatisierte Tests, Authentifizierung, Rollen und Berechtigungen sowie CI mit GitHub Actions
+- **Arbeitsweise:** KI-gestützte Entwicklung unter anderem mit Claude Code; Ergebnisse prüfe ich anhand von Code, Tests und Sicherheitsaspekten.
+
+## Projektarbeit
+
+Ich arbeite an Full-Stack-Anwendungen, darunter ein CRM und eine Plattform für die Verarbeitung von Marktdaten und simuliertes Trading. Dabei befasse ich mich unter anderem mit Datenmodellierung, Benutzerverwaltung, APIs, automatisierten Tests und Deployment. Der Quellcode dieser Projekte ist derzeit privat.
+
+## Berufliches Ziel
+
+Ich suche eine **unbefristete Vollzeit-Festanstellung als Backend- oder Full-Stack-Softwareentwickler**, vollständig remote innerhalb Deutschlands und in einem deutschsprachigen Team.
+
+Mehr über mich und meine Arbeit: [reinhardwesaliretza.de](https://reinhardwesaliretza.de)
