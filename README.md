@@ -13,9 +13,19 @@ Ich bin Quereinsteiger in der Softwareentwicklung und habe mir meine Kenntnisse 
 - **Qualität und Sicherheit:** automatisierte Tests, Authentifizierung, Rollen und Berechtigungen sowie CI mit GitHub Actions
 - **Arbeitsweise:** KI-gestützte Entwicklung unter anderem mit Claude Code; Ergebnisse prüfe ich anhand von Code, Tests und Sicherheitsaspekten.
 
-## Projektarbeit
+## Öffentliches Projekt
 
-Ich arbeite an Full-Stack-Anwendungen, darunter ein CRM und eine Plattform für die Verarbeitung von Marktdaten und simuliertes Trading. Dabei befasse ich mich unter anderem mit Datenmodellierung, Benutzerverwaltung, APIs, automatisierten Tests und Deployment. Der Quellcode dieser Projekte ist derzeit privat.
+### [CRM Full-Stack Portfolio](https://github.com/reinhardretza-hash/crm-fullstack-portfolio)
+
+Ein von mir entwickeltes CRM als öffentlich einsehbares Full-Stack-Projekt mit **Next.js, React, TypeScript, PostgreSQL, Prisma und rollenbasierter Authentifizierung**.
+
+- Verwaltung von Kontakten, Unternehmen, Leads, Angeboten und Rechnungen
+- Geschäftslogik, Datenintegrität und sicherheitsbewusste Zugriffskontrollen
+- Automatisierte Qualitätssicherung mit **673 Unit-Tests und 425 PostgreSQL-Integrationstests** sowie CI-Prüfungen
+
+**[Quellcode und technische Projektbeschreibung auf GitHub ansehen](https://github.com/reinhardretza-hash/crm-fullstack-portfolio)**
+
+Weitere eigene Entwicklungsprojekte befassen sich mit APIs, Marktdaten, Automatisierung und simuliertem Trading. Deren Quellcode ist nicht öffentlich.
 
 ## Berufliches Ziel
 
